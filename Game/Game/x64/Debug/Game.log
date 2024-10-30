@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\repos\sinclair-c++\Game\Game\Source.cpp(148,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.vcxproj -> D:\repos\sinclair-c++\Game\x64\Debug\Game.exe

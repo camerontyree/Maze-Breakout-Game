@@ -1,0 +1,5 @@
+PlayerPosition: 29,20
+GuardPosition 1: 15,7
+GuardPosition 2: 18,7
+GuardPosition 3: 25,16
+CluePosition: 2,18
